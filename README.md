@@ -41,7 +41,7 @@ com.kddi.android.lismobookstore
 com.kddi.android.auworldservice
 com.kddi.android.repairreceipt
 com.kddi.android.antijaywalk
-com.auone.wallet
+jp.auone.wallet
 web.wm.auone.jp
 com.uievolution.gguide.android
 jp.netstar.familysmile
