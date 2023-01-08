@@ -1,6 +1,9 @@
 # Fxxk-au-KDDI-Apps
 au/KDDIのアプリを抹消するソフト。Docomoよりは処理軽いから消すか迷ったけど消すわ。
 
+# 削除可能なアプリ一覧
+![ああああ (2)](https://user-images.githubusercontent.com/63937252/211183683-6a65d52b-ff9f-4c5c-be25-7f9d272a8c02.jpg)
+
 # 削除可能なアプリ一覧(テキスト版)
 com.kddi.selfcare.external
 com.kddi.android.email
