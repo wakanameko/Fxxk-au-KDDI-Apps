@@ -4,6 +4,34 @@ au/KDDIのアプリを抹消するソフト。Docomoよりは処理軽いから�
 # 削除可能なアプリ一覧
 ![ああああ (2)](https://user-images.githubusercontent.com/63937252/211183683-6a65d52b-ff9f-4c5c-be25-7f9d272a8c02.jpg)
 
+# 動作確認済みOS
+|Windows       |WindowsServer      |WindowsHomeServer    |
+|:------------:|:-----------------:|:-------------------:|
+|Windows11     |WindowsServer2022  |WindowsHomeServer2011|
+|Windows10     |WindowsServer2019  |                     |
+|Windows8.1    |WindowsServer2016  |                     |
+|Windows8      |WindowsServer2012R2|                     |
+|Windows7      |WindowsServer2012  |                     |
+|              |WindowsServer2008R2|                     |
+
+# 動作未確認/正常動作しないOS
+|Windows       |WindowsServer                    |WindowsHomeServer  |
+|:------------:|:-------------------------------:|:-----------------:|
+|WindowsVista  |WindowsServer2008                |WindowsHomeServer  |
+|WindowsXP     |WindowsServer2003R2              |                   |
+|Windows me    |WindowsServer2003                |                   |
+|Windows2000   |WindowsDatacenterServer          |                   |
+|Windows98/98SE|WindowsAdvancedServer            |                   |
+|Windows95     |Windows2000Server                |                   |
+|WindowsNT     |WindowsNTServerVersion4.0        |                   |
+|Windows3.x    |WindowsNTServerVersion3.51       |                   |
+|Windows2.x    |WindowsNTServerVersion3.5        |                   |
+|Windows1.x    |WindowsNTAdvancedServerVersion3.1|                   |
+
+# 使い方 - How to Use
+ボタンを押したらいいと思うよ。
+Adbがインストールされていない場合は、UI右下のダウンロードボタンからインストールしてください。インストール方法は調べてください。
+
 # 削除可能なアプリ一覧(テキスト版)
 com.kddi.selfcare.external
 com.kddi.android.email
