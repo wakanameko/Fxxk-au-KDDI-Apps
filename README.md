@@ -1,4 +1,4 @@
-# Fxxk-au-KDDI-Apps
+# Fxxk-au-KDDI-Apps(Test branch)
 au/KDDIのアプリを抹消するソフト。Docomoよりは処理軽いから消すか迷ったけど消すわ。
 
 # 削除可能なアプリ一覧
